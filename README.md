@@ -2,7 +2,13 @@
 
 ## Project Overview
 
-BlackWomenMDNetwork is a project developed for Dr. Philomena A Asante. The purpose of the project is to create a platform for black women MDs to connect and support each other. The MVP consists of a Home Page, Application Form, Membership Directory (including Resume Bank), Admin Portal, and backend architecture for the functionality of the website.
+BlackWomenMDNetwork is a project developed for Dr. Philomena A Asante. Introducing the Black Women MD Network, a project developed for Dr. Philomena A Asante. The BWMDN Network is an innovative and empowering platform designed specifically for Black women doctors to connect, collaborate, and grow professionally. Our mission is to create an inclusive, supportive, and inspiring environment that fosters meaningful connections and opportunities for Black women physicians.
+
+As a digital platform akin to LinkedIn, Black Women MD Network offers a membership-based service where users can sign up and gain access to an extensive network of like-minded professionals. The site asks its members to pay tiered-based dues to support the organization.  Members can explore a diverse range of profiles, interact with other Black women doctors, and discover potential collaborations, mentorship opportunities, or job openings.
+
+At Black Women MD Network, we believe in the power of representation and unity. Our platform acknowledges and creates a space for Black women doctors to network and excel in the medical field, while encouraging and uplifting one another to reach their full potential. By fostering a sense of belonging and providing invaluable resources, we aim to bridge the gaps in representation and create a thriving community of Black women doctors.
+
+https://blackwomenmdnetwork.com
 
 ## Team Members
 
