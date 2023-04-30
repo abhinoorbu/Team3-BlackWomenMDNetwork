@@ -26,6 +26,8 @@ The Black Women M.D. Network (BWMDN) Backend API is a FastAPI based backend appl
 
 These instructions will help you set up and run the project on your local machine for development and testing purposes.
 
+View the API Docs at: https://se-diva-docs.herokuapp.com/docs
+
 ### Prerequisites
 
 - Python 3.7 or higher
