@@ -20,7 +20,7 @@ https://blackwomenmdnetwork.com
 
 ## Project Setup
 
-For detailed setup instructions, including prerequisites, dependencies, environment variables, and external services or APIs, please refer to the `BWMDN Frontend` and `BWMDN Backend` folders.
+For detailed setup instructions, including prerequisites, dependencies, environment variables, and external services or APIs, please refer to the `BWMDN Frontend` and `BWMDN Backend` folders. For any additional information, please refer to the documents in "BWMDN Documentation".
 
 ## Current State of the Project
 
