@@ -1,0 +1,10 @@
+.back-button {
+  width: 90px;
+  font-weight: bold;
+  border-radius: 10px;
+  border: 1px solid #6750A4;
+  color: #6750A4;
+  background-color: #FFF7FA;
+  flex: auto;
+  margin-right: 30px;
+}

@@ -1,0 +1,102 @@
+body {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    min-height: 100vh;
+    background: #FFF7FA;
+    padding-bottom: 10vh;
+}
+
+.directory-body
+{
+    padding-top: 12vh;
+    display: flex;
+    flex-direction: row;
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+
+.filters
+{
+    width: 25%;
+    padding-right: 1vw;
+}
+
+.form-control
+{
+    color: #6750A4;
+    background-color: #E7E0EB;
+}
+
+.Card
+{
+    background-color: #E7E0EB;
+}
+
+.filter-label
+{
+    color: #6750A4;
+    font-weight: bold;
+}
+
+.switch
+{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    border-bottom: 1px solid #E7E0EB;
+}
+
+.plus-button
+{
+    border-radius: 50%;
+    background-color: none;
+    color: #6750A4;
+    border: none;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.members
+{
+    width: 75%;
+}
+.mem-card
+{
+    width: 30%;
+    background-color: #E7E0EB;
+    padding-top: 2px;
+
+}
+
+.pagination .page-link {
+    background-color: #E7E0EB;
+    border-color: #E7E0EB;
+    color: #6750A4;
+}
+
+.pagination .page-link:hover {
+    background-color: #E7E0EB;
+    border-color: #22005D;
+    color: #22005D;
+  }
+
+.pagination .page-item.active .page-link {
+    background-color: #6750A4;
+    border-color: #6750A4;
+    color: #E7E0EB;
+  }
+
+@media only screen and (orientation: portrait) {
+    .mem-card
+{
+    width: 70%;
+    background-color: #E7E0EB;
+    padding-top: 2px;
+
+}
+}

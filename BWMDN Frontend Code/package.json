@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-fa-icon": "^0.1.4",
+    "styled-components": "^5.3.6"
+  }
+}
